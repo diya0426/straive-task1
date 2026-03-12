@@ -13,7 +13,7 @@ This project implements:
 
 1. Clone the repository:
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/diya0426/straive-task1.git
    ```
 2. Create a virtual environment:
    ```
