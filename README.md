@@ -1,6 +1,6 @@
 # LLM-Straive
 
-A Python project providing a production-ready FastAPI service for text summarization using LLMs (OpenAI/Anthropic).
+A Python project providing a production-ready FastAPI service for text summarization using LLMs GROQ_API_KEY.
 
 ## Project Purpose
 
